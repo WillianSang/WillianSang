@@ -1,13 +1,16 @@
 
 <div>
-  <h1 align=center > Welcome to my GitHub! 👋 </h1>
-  <h4 align=center > 
-  Hola con todos !! Mi nombre es Willian Sangay Guevara soy Peruano y amo programar 
-  Me considero un persona apasionada de la tecnología, los negocios y el emprendimiento así que en esa linea inicie mi camino como programador con tecnologías web como React js y Express, para ya luego conocer React Native y darme cuenta que lo mío es el desarrollo Mobil  sin duda. 
-
-  Actualmente estoy migrando desde React Native y hacia el desarrollo Nativo aprendiendo Swift 5 y Kotlin tecnologías con las me gastaría también poder trabajar en su momento. 
-  </h4>
-
+  <h1 align=center > Welcome🙋🏻 </h1>
+  <h3 align=center > 
+    I'm developer with ReactNative en Swift 5
+  </h3>
+  <p> 
+    📌 I consider myself a lover of business and entrepreneurship so in this line I start my way as a programmer with web technologies like Reactjs and Express </p>
+  <p> 📌 After starting to learn ReactNative I decided that mobile development is what I want to specialize </p>
+  <p>
+    📌 I'm currently learning Swift 5 and Kotlin, technologies I would like to work with as well.
+  </p>
+    
   <h2> My Skills: </h2>
   <div>
     <h4>🌱 <b> Javascript, TypeScript, Swift 5 and Kotlin </b></h4>
