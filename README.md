@@ -1,6 +1,5 @@
-
 <div>
-  <h1 align=center > Welcome🙋🏻 </h1>
+  <h1 align=center > Welcome👋 </h1>
   <h3 align=center > 
     I'm developer with ReactNative en Swift 5
   </h3>
@@ -20,5 +19,6 @@
   </div> 
 
   <h2> Contact me: 📫 </h2>
-  
+    <p> https://www.linkedin.com/in/WillianSang/ </p>
+    <p> https://twitter.com/SangWillian </p>
 </div>
